@@ -1,0 +1,15 @@
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.GeneratedMSBuildEditorConfig.editorconfig
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.AssemblyInfoInputs.cache
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.AssemblyInfo.cs
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.csproj.CoreCompileInputs.cache
+D:\sreeshnav\asp.net\WebApplication5\buissness\bin\Debug\net8.0\buissness.deps.json
+D:\sreeshnav\asp.net\WebApplication5\buissness\bin\Debug\net8.0\buissness.dll
+D:\sreeshnav\asp.net\WebApplication5\buissness\bin\Debug\net8.0\buissness.pdb
+D:\sreeshnav\asp.net\WebApplication5\buissness\bin\Debug\net8.0\DataAccess.dll
+D:\sreeshnav\asp.net\WebApplication5\buissness\bin\Debug\net8.0\DataAccess.pdb
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.csproj.AssemblyReference.cache
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.csproj.Up2Date
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.dll
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\refint\buissness.dll
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\buissness.pdb
+D:\sreeshnav\asp.net\WebApplication5\buissness\obj\Debug\net8.0\ref\buissness.dll

@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sreeshnav\\asp.net\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|d:\\sreeshnav\\asp.net\\webapplication4\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\registeration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:registeration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\registeration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:registeration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\dbconnection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:dbconnection1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:datalistex1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:datalistex1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:datalistex1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:updatedatalist1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:updatedatalist1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:updatedatalist1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|D:\\sreeshnav\\asp.net\\WebApplication4\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7EF2DE81-77FB-4AA9-960F-EB14FA1CD718}|WebApplication4.csproj|solutionrelative:student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registeration.aspx.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\registeration.aspx.cs",
+              "RelativeDocumentMoniker": "registeration.aspx.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\registeration.aspx.cs*",
+              "RelativeToolTip": "registeration.aspx.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:43:25.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registeration.aspx",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\registeration.aspx",
+              "RelativeDocumentMoniker": "registeration.aspx",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\registeration.aspx",
+              "RelativeToolTip": "registeration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-30T06:41:01.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T06:38:41.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\login.aspx",
+              "RelativeDocumentMoniker": "login.aspx",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\login.aspx",
+              "RelativeToolTip": "login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-30T06:37:33.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbconnection1.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\dbconnection1.cs",
+              "RelativeDocumentMoniker": "dbconnection1.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\dbconnection1.cs",
+              "RelativeToolTip": "dbconnection1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:23:55.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "datalistex1.aspx.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx.cs",
+              "RelativeDocumentMoniker": "datalistex1.aspx.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx.cs",
+              "RelativeToolTip": "datalistex1.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:00.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "datalistex1.aspx.designer.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "datalistex1.aspx.designer.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx.designer.cs",
+              "RelativeToolTip": "datalistex1.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:20:03.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "datalistex1.aspx",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx",
+              "RelativeDocumentMoniker": "datalistex1.aspx",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\datalistex1.aspx",
+              "RelativeToolTip": "datalistex1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-28T09:20:06.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "updatedatalist1.aspx.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx.cs",
+              "RelativeDocumentMoniker": "updatedatalist1.aspx.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx.cs",
+              "RelativeToolTip": "updatedatalist1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:21:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "updatedatalist1.aspx.designer.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx.designer.cs",
+              "RelativeDocumentMoniker": "updatedatalist1.aspx.designer.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx.designer.cs",
+              "RelativeToolTip": "updatedatalist1.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:21:43.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "updatedatalist1.aspx",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx",
+              "RelativeDocumentMoniker": "updatedatalist1.aspx",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\updatedatalist1.aspx",
+              "RelativeToolTip": "updatedatalist1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-28T09:21:47.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "student.aspx.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\student.aspx.cs",
+              "RelativeDocumentMoniker": "student.aspx.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\student.aspx.cs",
+              "RelativeToolTip": "student.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:39:35.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "student.aspx",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication4\\student.aspx",
+              "RelativeDocumentMoniker": "student.aspx",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication4\\student.aspx",
+              "RelativeToolTip": "student.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-26T09:37:29.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
