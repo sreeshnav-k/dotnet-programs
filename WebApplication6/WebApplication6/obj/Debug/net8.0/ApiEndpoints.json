@@ -1,0 +1,51 @@
+[
+  {
+    "ContainingType": "WebApplication6.Controllers.employeecontroller",
+    "Method": "GetAllempdetailsrepo",
+    "RelativePath": "GetAllEmpDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "EndpointName": "GetAllEmpetails"
+  },
+  {
+    "ContainingType": "WebApplication6.Controllers.employeecontroller",
+    "Method": "insertemployee",
+    "RelativePath": "insertemployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "WebApplication6.model.modelclass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "insertemployee"
+  },
+  {
+    "ContainingType": "WebApplication6.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebApplication6.WeatherForecast, WebApplication6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

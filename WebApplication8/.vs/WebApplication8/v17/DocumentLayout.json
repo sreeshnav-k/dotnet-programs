@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sreeshnav\\asp.net\\WebApplication8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\branch\\searchbranch_model.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\branch\\searchbranch_model.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\branch\\getbynameandid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\branch\\getbynameandid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\branch\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\branch\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\branch\\getalldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\branch\\getalldetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\models\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\models\\branchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\branch\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\branch\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\branch\\viewbranchreport_model.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\branch\\viewbranchreport_model.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|d:\\sreeshnav\\asp.net\\webapplication8\\webapplication8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0ABAF7B1-6011-4924-8F62-5A574D9B548F}|WebApplication8\\WebApplication8.csproj|solutionrelative:webapplication8\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "branchController.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Controllers\\branchController.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Controllers\\branchController.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Controllers\\branchController.cs",
+              "RelativeToolTip": "WebApplication8\\Controllers\\branchController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwE8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:31:28.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "getbyid.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\getbyid.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\branch\\getbyid.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\getbyid.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\branch\\getbyid.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:35:28.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "getbynameandid.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\getbynameandid.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\branch\\getbynameandid.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\getbynameandid.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\branch\\getbynameandid.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAEgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:35:00.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchbranch_model.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\searchbranch_model.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\branch\\searchbranch_model.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\searchbranch_model.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\branch\\searchbranch_model.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T05:26:18.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "getalldetails.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\getalldetails.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\branch\\getalldetails.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\getalldetails.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\branch\\getalldetails.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAF0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:34:27.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "branchmodel.cs",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Models\\branchmodel.cs",
+              "RelativeDocumentMoniker": "WebApplication8\\Models\\branchmodel.cs",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Models\\branchmodel.cs",
+              "RelativeToolTip": "WebApplication8\\Models\\branchmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:58:10.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "homepage.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\homepage.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\branch\\homepage.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\homepage.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\branch\\homepage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:33:50.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "viewbranchreport_model.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\viewbranchreport_model.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\branch\\viewbranchreport_model.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\branch\\viewbranchreport_model.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\branch\\viewbranchreport_model.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-10T04:53:20.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\sreeshnav\\asp.net\\WebApplication8\\WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication8\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T06:43:36.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

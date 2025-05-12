@@ -1,0 +1,104 @@
+﻿
+@{
+    ViewData["Title"] = "insertemployee";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>view branch</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <style>
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background-color: #fff;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #007BFF;
+            color: white;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box; /* Ensures padding is included in width */
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+        <label for="id">ID</label>
+        <input type="text" id="id" />
+
+        <label for="name">Name</label>
+        <input type="text" id="name" />
+
+        <label for="designaton">Designation</label>
+        <input type="text" id="designation" />
+
+        <label for="department">Department</label>
+        <input type="text" id="department" />
+
+        <input type="button" value="insert employee" onclick="insert()" />
+
+
+</div>
+    <script>
+
+        function insert(){
+           
+            var id=document.getElementById('id').value;
+            var name=document.getElementById('name').value;
+            var designaton=document.getElementById('designation').value;
+            var department=document.getElementById('department').value;
+            fetchapipost(id,name,designaton,department);
+
+
+
+        }
+        function fetchapipost(id,name,designation,department)
+        {
+            debugger;
+            var flag="insertemployee";
+            var indata= flag + '$' + id + '-' + name + '-' + designation + '-' + department;
+             $.ajax({
+                type: "POST",
+                url: '/EmployeeController1/PostAPIData',
+                        data: { datas: indata },
+                        async: false,
+                        success: function (response) {
+                          alert("succesfully updated");
+                        },
+                        error: function (response) {
+                            check = 0;
+                        }
+                    });
+        }
+
+
+       
+
+    </script>
+</body>
+</html>
+
+
+

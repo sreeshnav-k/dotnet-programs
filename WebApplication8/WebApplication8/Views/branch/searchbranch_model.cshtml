@@ -1,0 +1,147 @@
+﻿
+@{
+    ViewData["Title"] = "searchbranch_model";
+}
+
+<h1>searchbranch_model</h1>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>view branch</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        select {
+            width: 10%;
+            padding: 8px;
+            box-sizing: border-box; /* Ensures padding is included in width */
+        }
+
+        .employee-container {
+            width: 60%;
+            margin-top: 20px;
+            padding: 30px;
+            background-color: gray;
+            border: 1px solid black;
+            border-radius: 5px;
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box; /* Ensures padding is included in width */
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+    <select id="branchDropdown" onchange="Fetchbranch()">
+        <!-- Options will be dynamically added here -->
+    </select>
+    <div class="employee-container" id="employeeDetails">
+        Id:<input type="text" id="brid" readonly /><br />
+        Name:<input type="text" id="brname" readonly /><br />
+        Designation:<input type="text" id="head" /><br />
+        Department:<input type="text" id="noofemployees" /><br />
+
+    </div>
+
+    <script>
+        window.onload = function () {
+            viewreport();
+        };
+
+        function viewreport() {
+            fetchapiGet();
+        }
+
+        function fetchapiGet() {
+            var flag = "Getbranchbyid";
+            var indata = flag;
+            $.ajax({
+                type: "GET",
+                url: '/branch/getAPIData',
+                data: { datas: indata },
+                async: false,
+                success: function (response) {
+                    var data = JSON.parse(response);
+                    LoadReport(data);
+                },
+                error: function (response) {
+                    console.error("Error fetching data:", response);
+                }
+            });
+        }
+
+        function LoadReport(data) {
+            const branchDropdown = document.getElementById('branchDropdown');
+
+            // Clear existing options
+            branchDropdown.innerHTML = '';
+
+            // Check if data is valid
+            if (Array.isArray(data) && data.length > 0) {
+                // Populate the dropdown with new options
+                data.forEach(item => {
+                    const option = document.createElement('option');
+                    option.value = item.brid; // Assuming 'id' is a property in your data
+                    option.textContent = item.brid+"----"+item.brname; // Assuming 'name' is a property in your data
+                    branchDropdown.appendChild(option);
+                });
+            }
+        }
+        function Fetchbranch()
+        {
+            const employeeSelect = document.getElementById('branchDropdown')
+            const selectedValue = employeeSelect.value;
+            fetchapiGet2(selectedValue);
+        }
+
+
+        function fetchapiGet2(selectedvalue) {
+            debugger;
+            var flag = "Searchbyid";
+            var indata = flag + "/" +selectedvalue;
+            $.ajax({
+                type: "GET",
+                url: '/branch/getAPIData',
+                data: { datas: indata },
+                async: false,
+                success: function (response) {
+                   const data = JSON.parse(response);
+
+                   loaddatatextbox(data);
+                },
+                error: function (response) {
+                    console.error("Error fetching data:", response);
+                }
+            });
+        }
+
+        function loaddatatextbox(data){
+            debugger;
+            if(data.length>0)
+                {
+                document.getElementById('brid').value = data[0].brid;
+                document.getElementById('brname').value = data[0].brname;
+                document.getElementById('head').value = data[0].head;
+                document.getElementById('noofemployees').value =data[0].noofemployees;
+
+            }
+        }
+
+    </script>
+</body>
+</html>

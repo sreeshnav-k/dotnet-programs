@@ -1,0 +1,6 @@
+@apibranch_HostAddress = http://localhost:5196
+
+GET {{apibranch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
